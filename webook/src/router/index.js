@@ -11,8 +11,8 @@ const routes = [
     component: Home
   },
   {
-    path: '/about',
-    name: 'about',
+    path: '/order',
+    name: 'order',
     // 路由级别代码拆分
     // 将为路由生成单独的块
     // 访问路由时懒加载
