@@ -44,7 +44,9 @@
   text-align: center;
   color: #2c3e50;
 }
-
+body::-webkit-scrollbar {
+  width: 0!important;
+}
 html,body {
   font-size: 14px;
   background-color: aliceblue;
